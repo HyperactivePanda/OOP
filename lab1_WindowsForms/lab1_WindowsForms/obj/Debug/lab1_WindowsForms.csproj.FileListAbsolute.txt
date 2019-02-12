@@ -1,0 +1,10 @@
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\bin\Debug\lab1_WindowsForms.exe.config
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\bin\Debug\lab1_WindowsForms.exe
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\bin\Debug\lab1_WindowsForms.pdb
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.csprojAssemblyReference.cache
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.Form1.resources
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.Properties.Resources.resources
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.csproj.GenerateResource.cache
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.csproj.CoreCompileInputs.cache
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.exe
+E:\универ\2 курс\ООП\Лабы\lab1_WindowsForms\lab1_WindowsForms\obj\Debug\lab1_WindowsForms.pdb
